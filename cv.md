@@ -18,13 +18,14 @@ Belarus, Brest city
 | Education:       | Secondary-specialized    |
 | Gender:          | Male                     |
 | Date of Birth:   | 22 November 1997         |
-| Marital status:   | Not married             |
+| Marital status:  | Not married              |
 
 ## Education
 - **Volkovysk State Agrarian College:**  
   2015-2018 Veterinary medical assistant
 
 ## Languages
+- **Russian:** native speaker
 - **English level:** A1  
 
 ## Skills
@@ -32,11 +33,26 @@ Belarus, Brest city
 - HTML
 - CSS
 - JavaScript (Basics)
+- Git/GitHub
 - Ability to defend your position
 - Love of problem solving
 - Passion for learning new things
 - Adaptation to changing conditions
 - Ability to take criticism
+
+## Code example
+
+```
+function maps(arr){
+  let newArr = [];
+
+  for (let elem of arr) {
+     elem += elem;
+     newArr.push(elem);
+  }
+  return newArr;
+}
+```
 
 ## Hobbies
 
