@@ -1,1 +1,1 @@
-# rsschool-cv
+https://accurot-hub.github.io/rsschool-cv/cv
