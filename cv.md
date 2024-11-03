@@ -1,5 +1,7 @@
 # Antonovich Yakov Vasilievich
-<image src='img/profil.jpg' width='15%' alt='profil photo' align='right'>
+<image src='img/profil.jpg' width='15%' alt='profil photo'>
+
+___
 
 * Phone number:
   * +375(29)721-81-81
